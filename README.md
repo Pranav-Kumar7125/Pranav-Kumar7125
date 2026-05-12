@@ -1,14 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Pranav%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Researcher&descAlignY=55&descSize=20)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Pranav-Kumar7125)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Pranav-Kumar7125/Pranav-Kumar7125/blob/main/Pranav-Kumar%20-%20Resume%20(5).pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Pranav-Kumar7125)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pranav-Kumar7125)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pranav7125_7/)
 
 ---
 
 ### 🚀 About Me
 
-I'm a **Fullstack Developer** and **AI/ML Enthusiast & Researcher** based in India — someone who loves turning ideas into reality, one commit at a time.
+I'm a **Fullstack Developer** and **AI/ML Enthusiast & Researcher** based in Hyderabad, India — someone who loves turning ideas into reality, one commit at a time.
 
 Ever since I discovered I could make machines *think*, I've been hooked. I thrive at the intersection of elegant frontend experiences and intelligent backend systems, and I love going deep into research just as much as shipping products.
 
@@ -18,7 +18,7 @@ Ever since I discovered I could make machines *think*, I've been hooked. I thriv
 - 🌱 **Learning:** Advanced Deep Learning, Agentic AI & Distributed Systems
 - 💡 **Interests:** Building products end-to-end, AI research, open source
 - 🎯 **Goal:** Bridge the gap between research and real-world applications
-- 🌍 **Based in:** India
+- 🌍 **Based in:** Hyderabad, India
 
 ---
 
@@ -64,8 +64,8 @@ Ever since I discovered I could make machines *think*, I've been hooked. I thriv
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **🔐 NVD Exploitability Toolkit** | Exploitability prediction toolkit fine-tuned on 56,000+ NVD vulnerabilities. DistilBERT achieved 85.6% accuracy & 92.1% precision, outperforming GPT2-Large by 16.5%. Paper submitted for publication. | `HuggingFace` `PyTorch` `DistilBERT` `GPT-2` |
-| **🛡️ AI-Based IDS for WSNs** | Intrusion Detection System using TCN & Multi-Head Attention with GOA-based feature selection, reducing feature space by ~68%. Achieved 99.09% accuracy on WSN-DS dataset. Paper submitted for publication. | `PyTorch` `Deep Learning` `TCN` |
+| **🔐 NVD Exploitability Toolkit** | Exploitability prediction toolkit fine-tuned on 56,000+ NVD vulnerabilities. DistilBERT achieved 85.6% accuracy & 92.1% precision, outperforming GPT2-Large by 16.5%. Paper submitted for publication. Found as nvd-epss-pred in my repositories| `HuggingFace` `PyTorch` `DistilBERT` `GPT-2` |
+| **🛡️ AI-Based IDS for WSNs** | Intrusion Detection System using TCN & Multi-Head Attention with GOA-based feature selection, reducing feature space by ~68%. Achieved 99.09% accuracy on WSN-DS dataset. Paper submitted for publication. Found as intrutect in my repositories| `PyTorch` `Deep Learning` `TCN` |
 
 > 💡 *More projects on my [repositories tab](https://github.com/Pranav-Kumar7125?tab=repositories) — always building something new!*
 
@@ -106,7 +106,8 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 <p align="center">
   <a href="https://linkedin.com/in/Pranav-Kumar7125"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:pranav.kumar7125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/Pranav-Kumar7125"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/Pranav-Kumar7125/Pranav-Kumar7125/blob/main/Pranav-Kumar%20-%20Resume%20(5).pdf"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Pranav7125_7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
